@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
  <head>
-
- </head
+ Hello World!
+ </head>
+   <body>
+    <script>
+     let name = Mosh"
+    </script>
+   </body>
 </html>
 
